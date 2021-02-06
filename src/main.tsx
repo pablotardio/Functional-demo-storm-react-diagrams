@@ -41,3 +41,4 @@ engine.setModel(model);
 document.addEventListener('DOMContentLoaded', () => {
 	ReactDOM.render(<App/>, document.querySelector('#application'));
 });
+
